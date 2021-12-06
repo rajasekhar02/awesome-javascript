@@ -776,6 +776,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [stretchy](https://github.com/LeaVerou/stretchy) - Form element autosizing, the way it should be.
 * [analytics](https://github.com/davidwells/analytics) - A lightweight, extendable analytics library designed to work with any third-party analytics provider to track page views, custom events, & identify users.
 * [dat.GUI](https://github.com/dataarts/dat.gui) - A lightweight gui controller for changing variables in JavaScript.
+* [turnjs](http://www.turnjs.com/) - A javascript library to make a flip book with HTML5
 ## Tips
 
 * [tipsy](https://github.com/jaz303/tipsy) - Facebook-style tooltips plugin for jQuery.
