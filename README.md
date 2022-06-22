@@ -830,6 +830,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
 * [stroll](https://github.com/hakimel/stroll.js) - A collection of CSS List scroll effects bind to dom through javascript.
 * [locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - Detects the elements in viewport and smooth scrolling with parallax.
 * [elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
+* [scrolldir](https://github.com/yowainwright/scrolldir) - 0 dependency JS plugin to leverage scroll direction with CSS
 
 ## Menu
 
@@ -995,6 +996,7 @@ Besides libraries, there're [Collection on Codepen](http://codepen.io/collection
  
 ## Misc
 
+* [across-tabs](https://github.com/wingify/across-tabs) - Easy communication between cross-origin browser tabs. Simplified "CORS"ing!
 * [echo](https://github.com/toddmotto/echo) - Lazy-loading images with data-* attributes.
 * [picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for &lt;picture&gt;, srcset, sizes.
 * [platform.js](https://github.com/bestiejs/platform.js) - A platform detection library that works on nearly all JavaScript platforms.
