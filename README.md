@@ -344,14 +344,16 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [cola.js](https://ialab.it.monash.edu/webcola/) - library for arranging your HTML5 documents and diagrams using constraint-based optimization techniques
 * [jointjs](https://github.com/clientIO/joint) - Diagramming library to create static diagrams or fully interactive diagramming tools.
 * [vizzu](https://github.com/vizzuhq/vizzu-lib) - Library for animated data visualizations and data stories.
- 
-There're also some great commercial libraries, like 
+ There're also some great commercial libraries, like 
 * [amchart](https://www.amcharts.com/) 
 * [anychart](https://www.anychart.com/) 
 * [plotly](https://plotly.com/) 
 * [highchart](https://www.highcharts.com/)
 * [lightning chart](https://www.arction.com/lightningchart-js/).
-
+* [go.js](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
+* [js-mind](https://github.com/hizzgdev/jsmind) - Javascript version of mind mapping
+ 
+ 
 ## Timeline
 
 * [TimelineJS v3](https://github.com/NUKnightLab/TimelineJS3) - A Storytelling Timeline built in JavaScript.
@@ -941,6 +943,7 @@ There're also some great commercial libraries, like
  * [ffmpeg.js](https://github.com/Kagami/ffmpeg.js) - FFmpeg optimized for in-browser use: minimal size for faster loading, asm.js, performance tunings, etc.
  * [flv.js](https://github.com/bilibili/flv.js) - An HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash.
  * [hls.js](https://github.com/video-dev/hls.js) -  A JavaScript library that implements an HTTP Live Streaming client. It relies on HTML5 video and MediaSource Extensions for playback.
+ * [plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
 
 ## Typography
 
