@@ -352,6 +352,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [lightning chart](https://www.arction.com/lightningchart-js/).
 * [go.js](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 * [js-mind](https://github.com/hizzgdev/jsmind) - Javascript version of mind mapping
+* [d3fc](https://github.com/d3fc/d3fc) - A collection of components that make it easy to build interactive charts with D3
  
  
 ## Timeline
