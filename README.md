@@ -922,6 +922,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [jqvmap](https://github.com/manifestinteractive/jqvmap) - jQuery Vector Map Library.
 * [OpenLayers3](https://openlayers.org/) - A high-performance, feature-packed library for all your mapping needs.
 * [H3js](https://github.com/uber/h3) - Hexagonal hierarchical geospatial indexing system ported to javascript by Uber for geospatial visualization.
+* [MapLibre](https://github.com/maplibre/maplibre-gl-js) - The open-source fork of Mapbox GL JS: Interactive maps in the browser, powered by vector tiles and WebGL.
 
 ## Video/Audio
 
