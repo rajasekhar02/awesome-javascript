@@ -1021,6 +1021,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
  
 ## Misc
 
+* [sweet.js](https://github.com/sweet-js/sweet-core) - Macros allow you to build the language of your dreams. Sweeten JavaScript by defining new syntax for your code.
 * [across-tabs](https://github.com/wingify/across-tabs) - Easy communication between cross-origin browser tabs. Simplified "CORS"ing!
 * [echo](https://github.com/toddmotto/echo) - Lazy-loading images with data-* attributes.
 * [picturefill](https://github.com/scottjehl/picturefill) - A responsive image polyfill for &lt;picture&gt;, srcset, sizes.
