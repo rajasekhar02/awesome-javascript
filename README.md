@@ -16,8 +16,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
   * [Game Engines](#game-engines)
   * [Articles/Posts](#articles-and-posts)
   * [Data Visualization](#data-visualization)
-    * [Timeline](#timeline)
-    * [Spreadsheet](#spreadsheet)
+  * [Timeline](#timeline)
+  * [Spreadsheet](#spreadsheet)
   * [Editors](#editors)
   * [Documentation](#documentation)
   * Utilities
@@ -297,7 +297,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [this keyword in JavaScript](https://www.loginradius.com/blog/async/breaking-down-this-keyword-in-javascript/) - Breaking down the 'this' keyword in JavaScript
 
 ## Data Visualization
-*Data visualization tools for the web.*
+*Data visualization tools for the web.
 
 * [d3](https://github.com/d3/d3) - A JavaScript visualization library for HTML and SVG.
 * [metrics-graphics](https://github.com/mozilla/metrics-graphics) - A library optimized for concise, principled data graphics and layouts.
@@ -353,7 +353,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [go.js](https://github.com/NorthwoodsSoftware/GoJS) - JavaScript diagramming library for interactive flowcharts, org charts, design tools, planning tools, visual languages.
 * [js-mind](https://github.com/hizzgdev/jsmind) - Javascript version of mind mapping
 * [d3fc](https://github.com/d3fc/d3fc) - A collection of components that make it easy to build interactive charts with D3
- 
+* [Railroad Diagrams](https://github.com/tabatkins/railroad-diagrams) - A small JS+SVG library for drawing railroad syntax diagrams, like on JSON.org. Now with a Python port!
  
 ## Timeline
 
