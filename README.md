@@ -1001,7 +1001,9 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [ECMAScript 6 compatibility table](http://kangax.github.io/compat-table/es6/) - Compatibility tables for all ECMAScript 6 features on a variety of environments.
 * [Babel (Formerly 6to5)](https://github.com/babel/babel) - Turn ES6+ code into vanilla ES5 with no runtime.
 * [Traceur compiler](https://github.com/google/traceur-compiler) - ES6 features > ES5. Includes classes, generators, promises, destructuring patterns, default parameters & more.
-
+* [acorn](https://github.com/acornjs/acorn) - A small, fast, JavaScript-based JavaScript parser
+* [estraverse](https://github.com/estools/estraverse) - ECMAScript JS AST traversal functions
+* [estree-walker](https://github.com/Rich-Harris/estree-walker) - Traverse an ESTree-compliant AST Resources
 
 ## Generators
 
