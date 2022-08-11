@@ -177,7 +177,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [karma](https://github.com/karma-runner/karma) - Spectacular Test Runner for JavaScript.
 * [nightwatch](https://github.com/nightwatchjs/nightwatch) - UI automated testing framework based on node.js and selenium webdriver.
 * [intern](https://github.com/theintern/intern) - A next-generation code testing stack for JavaScript.
-* [yolpo](http://www.yolpo.com) - A statement-by-statement JavaScript interpreter in the browser.
 * [puppeteer](https://github.com/GoogleChrome/puppeteer) - Headless Chrome Node.js API by official Google Chrome team.
 * [webdriverio](https://github.com/webdriverio/webdriverio) - Next-gen WebDriver test automation framework for Node.js.
 * [taiko](https://github.com/getgauge/taiko) - A Node.js library with a simple API to automate Chromium based browsers.
@@ -243,6 +242,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Drawflow](https://github.com/jerosoler/Drawflow) - This allow you to create data flows easily and quickly.
 * [Blockly](https://github.com/google/blockly) - A library that adds a visual code editor to web and mobile apps by Google.
 * [Million](https://github.com/aidenybai/million) - <1kb compiler-focused virtual DOM. It's fast!
+* [Whatsup](https://github.com/whatsup/whatsup) - A frontend framework for chillout-mode development 🥤. JSX components on generators, fast mobx-like state management and exclusive cssx style system.
 
 ## Node-Powered CMS Frameworks
 
@@ -407,7 +407,6 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [YUIDoc](http://yui.github.io/yuidoc/) is a Node.js application that generates API documentation from comments in source, using a syntax similar to tools like Javadoc and Doxygen.
 * [coddoc](http://doug-martin.github.io/coddoc/) is a jsdoc parsing library. Coddoc is different in that it is easily extensible by allowing users to add tag and code parsers through the use of coddoc.addTagHandler and coddoc.addCodeHandler. coddoc also parses source code to be used in APIs.
 * [sphinx](http://www.sphinx-doc.org/) a tool that makes it easy to create intelligent and beautiful documentation
-* [Using JSDoc](http://usejsdoc.org/)
 * [Beautiful docs](https://github.com/beautiful-docs/beautiful-docs) is a documentation viewer based on markdown files.
 * [documentation.js](http://documentation.js.org) - API documentation generator with support for ES2015+ and flow annotation.
 * [jsduck](https://github.com/senchalabs/jsduck) - API documentation generator made for Sencha JavaScript frameworks, but can be used for other frameworks too.
@@ -431,7 +430,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [lodash](https://github.com/lodash/lodash) - A utility library delivering consistency, customization, performance, & extras.
 * [Sugar](https://github.com/andrewplummer/Sugar) - A JavaScript library for working with native objects.
 * [lazy.js](https://github.com/dtao/lazy.js) - Like Underscore, but lazier.
-* [ramda](https://github.com/CrossEye/ramda) - A practical functional library for JavaScript programmers.
+* [ramda](https://github.com/ramda/ramda) - A practical functional library for JavaScript programmers.
 * [mout](https://github.com/mout/mout) - Modular JavaScript Utilities.
 * [preludejs](https://github.com/alanrsoares/prelude-js) - Hardcore Functional Programming for JavaScript.
 * [rambda](https://github.com/selfrefactor/rambda) - Faster and smaller alternative to *Ramda*.
@@ -459,7 +458,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [buckets](https://github.com/mauriciosantos/Buckets-JS) - A complete, fully tested and documented data structure library written in JavaScript.
 * [hashmap](https://github.com/flesler/hashmap) - Simple hashmap implementation that supports any kind of keys.
 * [ngraph.graph](https://github.com/anvaka/ngraph.graph) - Graph data structure in javascript.
-
+* [js-sdsl](https://github.com/zly201/js-sdsl) - Refer to the javascript standard data structure library implemented by c++ stl, which supports c++ bidirectional iterator mode.
 
 ## Date
 *Date Libraries.*
@@ -528,7 +527,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [datavore](https://github.com/StanfordHCI/datavore) - A small, fast, in-browser database engine written in JavaScript.
 * [Hoodie](https://github.com/hoodiehq/hoodie) - Offline First backend to work in browser without internet connectivity.
 * [NeDB](https://github.com/louischatriot/nedb) - Embedded Persistent database for Browsers, nw.js, electron.
-
+* [Lovefield](https://google.github.io/lovefield) - Lovefield is a relational database for web apps, By Google.
+ 
 ## Color
 
 * [randomColor](https://github.com/davidmerfield/randomColor) - A color generator for JavaScript.
@@ -613,6 +613,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [Optic](https://github.com/opticdev/optic) - Optic automatically documents and tests your APIs.
 * [SWR](https://github.com/vercel/swr) - React Hooks library for remote data fetching.
 * [React Query](https://github.com/tannerlinsley/react-query) - Hooks for fetching, caching and updating asynchronous data in React.
+* [SWRV](https://github.com/Kong/swrv) - Stale-while-revalidate data fetching for Vue.
+* [Vue Query](https://github.com/DamianOsipiuk/vue-query) - Hooks for fetching, caching and updating asynchronous data in Vue.
 
 ## Streaming
 
@@ -1095,6 +1097,7 @@ https://listjs.com
 * [davidyezsetz/you-might-not-need-jquery-plugins](https://github.com/davidyezsetz/you-might-not-need-jquery-plugins)
 * [MaximAbramchuck/awesome-interviews](https://github.com/MaximAbramchuck/awesome-interview-questions)
 * [denolib/awesome-deno](https://github.com/denolib/awesome-deno)
+* [apvarun/awesome-bun](https://github.com/apvarun/awesome-bun)
 
 # Contributing
 
