@@ -951,7 +951,8 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
  * [flv.js](https://github.com/bilibili/flv.js) - An HTML5 Flash Video (FLV) Player written in pure JavaScript without Flash.
  * [hls.js](https://github.com/video-dev/hls.js) -  A JavaScript library that implements an HTTP Live Streaming client. It relies on HTML5 video and MediaSource Extensions for playback.
  * [plyr](https://github.com/sampotts/plyr) - A simple HTML5, YouTube and Vimeo player
-
+ * [waud](https://github.com/waud/waud) - Web Audio Library
+ 
 ## Typography
 
  * [FlowType.JS](https://github.com/simplefocus/FlowType.JS) - Web typography at its finest: font-size and line-height based on element width.
