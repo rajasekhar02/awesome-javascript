@@ -1059,6 +1059,7 @@ https://listjs.com
 * [uppy](https://uppy.io/) - The next open source file uploader for web browsers
 * [peer.js](https://github.com/peers/peerjs) - Simple peer-to-peer with WebRTC
 * [gyronorm.js](https://github.com/dorukeker/gyronorm.js) - JavaScript project for accessing and normalizing the accelerometer and gyroscope data on mobile devices
+* [sysend.js](https://github.com/jcubic/sysend.js) - Web application synchronization between different tabs
 
 ## Podcasts
 * [JavaScript Air](https://javascriptair.com/) - The live video broadcast podcast all about JavaScript and the Web platform.
