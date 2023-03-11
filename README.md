@@ -768,6 +768,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [vanilla-masker](https://github.com/BankFacil/vanilla-masker) - A pure JavaScript mask input.
 * [Ion.CheckRadio](https://github.com/IonDen/ion.checkRadio) - jQuery plugin for styling checkboxes and radio-buttons. With skin support.
 * [awesomplete](https://github.com/LeaVerou/awesomplete) - Ultra lightweight, usable, beautiful autocomplete with zero dependencies. - https://projects.verou.me/awesomplete/
+* [slideform](https://github.com/asmerkin/slideform) - Slideforms creates forms as vertical slideshows.
 
 ### Calendar
 
@@ -857,6 +858,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [locomotive-scroll](https://github.com/locomotivemtl/locomotive-scroll) - Detects the elements in viewport and smooth scrolling with parallax.
 * [elevator.js](https://github.com/tholman/elevator.js) - Finally, a "back to top" button that behaves like a real elevator.
 * [scrolldir](https://github.com/yowainwright/scrolldir) - 0 dependency JS plugin to leverage scroll direction with CSS
+* [waypoints](http://imakewebthings.com/waypoints/guides/getting-started/) - With Waypoints included, we now have access to a global Waypoint class.
 
 ## Menu
 
@@ -992,6 +994,7 @@ A collection of awesome browser-side [JavaScript](https://developer.mozilla.org/
 * [particles-bg](https://github.com/lindelof/particles-bg) - A lightweight React particles animation background component.
 * [barbajs](https://github.com/barbajs/barba) - It helps you create fluid and smooth transitions between your website's pages.
 * [typicaljs](https://github.com/camwiegert/typical) - Animated typing in ~400 bytes 🐡 of JavaScript
+* [Motion One](https://motion.dev/guides/quick-start) - Motion One is the smallest fully-featured animation library for the web.
 
 ## Image Processing
 
